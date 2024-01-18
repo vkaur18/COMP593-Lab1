@@ -1,2 +1,3 @@
 print("Complex is better than complicated".)
 print("Sparse is better than dense".)
+print("Errors should never pass silently".)
