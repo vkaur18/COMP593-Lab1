@@ -1,3 +1,4 @@
 print("Simple is better than complex".)
 print("Beautiful is better than ugly".)
 print("Now is better than never".)
+print("Although never is often better than *right* now".)
